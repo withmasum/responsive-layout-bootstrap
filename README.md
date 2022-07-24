@@ -3,6 +3,8 @@
 
  https://withmasum.github.io/responsive-layout-bootstrap/
  https://withmasum.github.io/responsive-layout-bootstrap/recap.html
+  https://withmasum.github.io/responsive-layout-bootstrap/players.html
+
 
 
 Modal 
