@@ -4,6 +4,7 @@
  https://withmasum.github.io/responsive-layout-bootstrap/
  https://withmasum.github.io/responsive-layout-bootstrap/recap.html
   https://withmasum.github.io/responsive-layout-bootstrap/players.html
+    https://withmasum.github.io/responsive-layout-bootstrap/jackats.html
 
 
 
@@ -53,4 +54,7 @@ exaple code - col-12 sm-6 col-md-4 col-lg-3
 
 
 
+gutter gx-
+g 
 
+**** ONLY GRID CARD NEED TO USE ON ROW row-cols-md-6
