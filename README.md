@@ -29,6 +29,26 @@ justtify-content-around
 
 
 
-[Breakpoint]
+[Breakpoint] - !Need more learning
+
+*** Container
+
+**** Column for Layout 
+
+**** Grid 
+
+**** 12 Columns
+
+
+**** Grid Gutters 
+
+
+**** Column 
+
+Responsive Column Number 
+
+exaple code - col-12 sm-6 col-md-4 col-lg-3
+
+
 
 
