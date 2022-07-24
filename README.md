@@ -1,10 +1,11 @@
 # responsive-layout-bootstrap
 
 
- https://withmasum.github.io/responsive-layout-bootstrap/
- https://withmasum.github.io/responsive-layout-bootstrap/recap.html
-  https://withmasum.github.io/responsive-layout-bootstrap/players.html
-    https://withmasum.github.io/responsive-layout-bootstrap/jackats.html
+https://withmasum.github.io/responsive-layout-bootstrap/ <br>
+https://withmasum.github.io/responsive-layout-bootstrap/recap.html <br>
+https://withmasum.github.io/responsive-layout-bootstrap/players.html <br>
+https://withmasum.github.io/responsive-layout-bootstrap/jackats.html <br>
+https://withmasum.github.io/responsive-layout-bootstrap/registration.html <br>
 
 
 
