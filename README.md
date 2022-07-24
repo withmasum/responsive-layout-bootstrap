@@ -58,3 +58,18 @@ gutter gx-
 g 
 
 **** ONLY GRID CARD NEED TO USE ON ROW row-cols-md-6
+
+
+
+[css grid need to explore]
+
+
+Check and Radios 
+Forms Controls 
+Dropdown
+Chckbox 
+Flating Lables 
+Layout 
+Validation 
+
+
