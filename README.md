@@ -3,9 +3,13 @@
 
 https://withmasum.github.io/responsive-layout-bootstrap/ <br>
 https://withmasum.github.io/responsive-layout-bootstrap/recap.html <br>
+https://withmasum.github.io/responsive-layout-bootstrap/flex.html <br>
+https://withmasum.github.io/responsive-layout-bootstrap/grid-card.html <br>
 https://withmasum.github.io/responsive-layout-bootstrap/players.html <br>
+https://withmasum.github.io/responsive-layout-bootstrap/bags.html <br>
 https://withmasum.github.io/responsive-layout-bootstrap/jackats.html <br>
 https://withmasum.github.io/responsive-layout-bootstrap/registration.html <br>
+
 
 
 
@@ -72,5 +76,22 @@ Chckbox
 Flating Lables 
 Layout 
 Validation 
+
+
+
+EXPLORE BOOTSTRAP EXAMPLES AND SOURCES 
+
+
+
+ALRRADY LEARNED - 
+BRAKPOINTS
+FLEX 
+CONTAINERS
+GRID BOOTSTRAP
+COLUMS 
+ROW
+
+
+ 
 
 
